@@ -24,6 +24,16 @@ Face anonymization and verification bash script.
 
 # [Roop](https://github.com/Future-Mobility-Campus-Ireland/roop) library instalation
 
+1. Go to the home directory
+
+   `cd ~`
+
+2. Chose one of two options, depending on hardware and software stack installed on the machine
+
+   2.1. Simple [basic installation](https://github.com/s0md3v/roop/wiki/1.-Installation) which utilises CPU only. It is more likely to work on your computer, but will be quite slow
+
+   2.2. More advanced [acceleration install](https://github.com/s0md3v/roop/wiki/2.-Acceleration). Unleash the full potential of your CPU and GPU. 
+
 
 # [Face_recognition](https://github.com/Future-Mobility-Campus-Ireland/face_recognition) library installation
 
