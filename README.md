@@ -7,10 +7,19 @@ Face anonymization and verification bash script.
 
 # Enviroment
 - Ubuntu 20.04 (tested)
-- Conda (We highly recommend to work with a venv or conda to avoid issues)
+- Conda (Highly recommend to work with a venv or conda to avoid issues)
 
 
 # [Conda](https://conda.io/projects/conda/en/latest/index.html) Installation
+1. Follow steps for Linux [command line install](https://docs.conda.io/projects/miniconda/en/latest/#quick-command-line-install), if conda is not installed already.
+
+2. Create conda enviroment with Python 3.9
+
+   `conda create -n anony_py3.9 python=3.9`
+
+3. Activate the enviroment
+
+   `conda activate anony_py3.9`
 
 
 # [Roop](https://github.com/Future-Mobility-Campus-Ireland/roop) library instalation
