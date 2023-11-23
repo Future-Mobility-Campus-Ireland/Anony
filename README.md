@@ -37,6 +37,21 @@ Face anonymization and verification bash script.
 
 # [Face_recognition](https://github.com/Future-Mobility-Campus-Ireland/face_recognition) library installation
 
+   1. Go to the home directory
+
+      `cd ~`
+      
+   2. clone face_recognition library
+
+      `git clone https://github.com/Future-Mobility-Campus-Ireland/face_recognition`
+
+   3. Install dependencies
+
+      `pip install -r requirements.txt`
+
+   4. Finally, install this module from pypi using pip or pip3
+
+      `pip install face_recognition`
 
 # [Anonymization script](https://github.com/Future-Mobility-Campus-Ireland/Anony/blob/main/run_face_anonymization.sh) installation
 
