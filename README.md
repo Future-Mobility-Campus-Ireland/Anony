@@ -55,6 +55,16 @@ Face anonymization and verification bash script.
 
 # [Anonymization script](https://github.com/Future-Mobility-Campus-Ireland/Anony/blob/main/run_face_anonymization.sh) installation
 
+   1. Go to the home directory
+
+      `cd ~`
+
+   2. clone face_recognition library
+
+      `git clone https://github.com/Future-Mobility-Campus-Ireland/Anony`
+
 
 # Running anonymization script
+
+
 
