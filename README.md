@@ -77,5 +77,7 @@ Face anonymization and verification bash script.
 
       `bash run_face_anonymization.sh ~/roop/dan.mp4`
 
+      **Note:** If script doesn't run make sure that the script has executable permissions: `chmod u+x run_face_anonymization.sh`
+
 
 
