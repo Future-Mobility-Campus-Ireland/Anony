@@ -26,7 +26,7 @@ ANONY_VIDEO_PATH="${ROOP_DIR}${ANONY_VIDEO_FILENAME}"
 # Navigate to the folder for the 'roop' project and run it
 cd "$ROOP_DIR" || exit
 pwd
-python run.py -s "$MASKING_FACE_PATH" -t "$ORIGINAL_VIDEO_PATH" -o "$ANONY_VIDEO_PATH" --keep-fps --keep-frames --skip-audio --ma>
+python run.py -s "$MASKING_FACE_PATH" -t "$ORIGINAL_VIDEO_PATH" -o "$ANONY_VIDEO_PATH" --keep-fps --keep-frames --skip-audio --many-faces 
 
 # After 'roop' is finished, navigate to the folder for the 'face_recognition' project
 cd "$ANONY_VALIDATION_DIR" || exit
