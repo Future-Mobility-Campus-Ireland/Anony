@@ -64,10 +64,10 @@ Face anonymization and verification bash script.
       `git clone git@github.com:Future-Mobility-Campus-Ireland/Anony.git`
 
       **Note:** Anoy is private Github repo so it requires user to have [SSH key linked to Github account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
-      Otherwise just simple copy and paste content of bash script [run_face_anonymization.sh](https://github.com/Future-Mobility-Campus-Ireland/Anony/blob/main/run_face_anonymization.sh)f
+      Otherwise just simple copy and paste content of bash script [run_face_anonymization.sh](https://github.com/Future-Mobility-Campus-Ireland/Anony/blob/main/run_face_anonymization.sh)
 
 
-# Running anonymization script
+# [Anonymization script](https://github.com/Future-Mobility-Campus-Ireland/Anony/blob/main/run_face_anonymization.sh) running
 
    1. Move to the folder with anonymization script:
 
