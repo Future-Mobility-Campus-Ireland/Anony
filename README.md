@@ -61,10 +61,21 @@ Face anonymization and verification bash script.
 
    2. clone face_recognition library
 
-      `git clone https://github.com/Future-Mobility-Campus-Ireland/Anony`
+      `git clone git@github.com:Future-Mobility-Campus-Ireland/Anony.git`
+
+      **Note:** Anoy is private Github repo so it requires user to have [SSH key linked to Github account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+      Otherwise just simple copy and paste content of bash script [run_face_anonymization.sh](https://github.com/Future-Mobility-Campus-Ireland/Anony/blob/main/run_face_anonymization.sh)f
 
 
 # Running anonymization script
+
+   1. Move to the folder with anonymization script:
+
+      `cd Anony`
+
+   2. Run the script with providing path to the video to be anonymized
+
+      `bash run_face_anonymization.sh ~/roop/dan.mp4`
 
 
 
