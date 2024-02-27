@@ -73,7 +73,7 @@ Face anonymization and verification bash script.
 
       `cd Anony`
 
-   2. Run the script with providing path to the video to be anonymized
+   2. Run the script with providing absoulete path to the video to be anonymized
 
       `bash run_face_anonymization.sh ~/roop/dan.mp4`
 
